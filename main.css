@@ -1,0 +1,16 @@
+body {
+    background-color: #ffffff;
+}
+nav {
+    text-align: center;
+    margin: 50px 0px 0px 10px;
+    border: 0px 0px 1px 0px;
+    font-size: 16px;
+    font-family: 'Zilla Slab', serif;
+}
+.navBtn {
+    padding: 0px 9px 0px 9px;
+}
+.active {
+
+}
